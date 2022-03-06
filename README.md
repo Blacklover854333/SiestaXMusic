@@ -1,4 +1,4 @@
-<h3>⚠️ This repo is just a clone of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
+<h3>⚠️ This repo is just a clone of <a href="https://github.com/Blacklover854333/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
 <p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
 
@@ -16,7 +16,7 @@
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
-Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
+Read [Docs](https://Blacklover854333.gitbook.io/yukkimusicbot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
 
 > Click on buttons to expand!
 <details>
@@ -88,9 +88,9 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TechZBots)
-- [Telegram Support Group](https://t.me/TechZBots_Support)
-- [Contact Owner](https://t.me/Tech_Shreyash)
+- [Telegram Channel](https://t.me/stranger_yarr)
+- [Telegram Support Group](https://t.me/quick_mcq)
+- [Contact Owner](https://t.me/abhishekraza)
 
 
 ## License
