@@ -29,12 +29,12 @@
     },
     "DURATION_LIMIT": {
       "description": "Duration Limit for Playout (In Mins).. Example: 60",
-      "value": "60",
+      "value": "500",
       "required": true
     },
     "ASSISTANT_PREFIX": {
       "description": "Prefix for Assistant Commands.",
-      "value": ".",
+      "value": "/",
       "required": true
     },
     "MONGO_DB_URI": {
